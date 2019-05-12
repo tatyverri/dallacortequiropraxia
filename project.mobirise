@@ -746,7 +746,8 @@
             },
             ".mbr-content-text": {
               "color": "#333333",
-              "margin-bottom": "0"
+              "margin-bottom": "0",
+              "text-align": "left"
             },
             ".card": {
               "word-wrap": "break-word",
